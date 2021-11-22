@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankushavinash
 - 👀 I’m interested in Automation 
-- 🌱 I’m currently learning ...
+- 🌱 Learning continues ...
 - 💞️ I’m looking to collaborate on automation related projects
 - 📫 Reach me @ankushavinash or https://www.linkedin.com/in/ankushavinash/
 
